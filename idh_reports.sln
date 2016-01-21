@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "idh_reports", "idh_reports\idh_reports.rptproj", "{86DD8A66-5433-4681-B963-CCBC1F340BD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86DD8A66-5433-4681-B963-CCBC1F340BD9}.Debug|Default.ActiveCfg = Debug
+		{86DD8A66-5433-4681-B963-CCBC1F340BD9}.Debug|Default.Build.0 = Debug
+		{86DD8A66-5433-4681-B963-CCBC1F340BD9}.Debug|Default.Deploy.0 = Debug
+		{86DD8A66-5433-4681-B963-CCBC1F340BD9}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{86DD8A66-5433-4681-B963-CCBC1F340BD9}.DebugLocal|Default.Build.0 = DebugLocal
+		{86DD8A66-5433-4681-B963-CCBC1F340BD9}.Release|Default.ActiveCfg = Release
+		{86DD8A66-5433-4681-B963-CCBC1F340BD9}.Release|Default.Build.0 = Release
+		{86DD8A66-5433-4681-B963-CCBC1F340BD9}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
