@@ -10,12 +10,36 @@
   <DataSets />
   <Reports>
     <ProjectItem>
+      <Name>AirTimeStateLevelAirline.rdl</Name>
+      <FullPath>AirTimeStateLevelAirline.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CarrierAirTimeStateLevel.rdl</Name>
+      <FullPath>CarrierAirTimeStateLevel.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CarrierDelayStateLevel.rdl</Name>
+      <FullPath>CarrierDelayStateLevel.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CarrierDistanceStateLevel.rdl</Name>
+      <FullPath>CarrierDistanceStateLevel.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CarrierFlightCountStateLevel.rdl</Name>
+      <FullPath>CarrierFlightCountStateLevel.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
       <Name>FlightCountStateLevelAirline.rdl</Name>
       <FullPath>FlightCountStateLevelAirline.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>AirTimeStateLevelAirline.rdl</Name>
-      <FullPath>AirTimeStateLevelAirline.rdl</FullPath>
+      <Name>FlightNumberDelaysCountSumStateLevel.rdl</Name>
+      <FullPath>FlightNumberDelaysCountSumStateLevel.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>FlightNumberDelayAverageStateLevel.rdl</Name>
+      <FullPath>FlightNumberDelayAverageStateLevel.rdl</FullPath>
     </ProjectItem>
   </Reports>
   <Configurations>
